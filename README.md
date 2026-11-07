@@ -4,6 +4,8 @@
 
 Not a mixture of experts. A mixture of specialists.
 
+Building it yourself? Run notes and the live demo live in [DEVELOPING.md](DEVELOPING.md).
+
 ## What this is
 
 A solo founder (Daniel Kaneshiro, Honolulu) chaired a board of five AI
