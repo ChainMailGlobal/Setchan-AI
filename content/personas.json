@@ -1,0 +1,18 @@
+{
+  "_note": "Fictional personas from the board copy of the Setchan framework. No real people, no real patient data.",
+  "caregiver": {
+    "id": "sarah",
+    "name": "Sarah",
+    "role": "Adult child · legal representative · care coordinator"
+  },
+  "residents": [
+    {
+      "id": "maria-r",
+      "name": "Maria R.",
+      "initials": "MR",
+      "unit": "Rehab Unit",
+      "room": "Room 12B",
+      "communication": "Simple, one-step phrases. Picture cues help. Low-stimulus room."
+    }
+  ]
+}

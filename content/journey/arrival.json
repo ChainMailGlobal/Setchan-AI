@@ -1,0 +1,19 @@
+{
+  "_note": "Phase 1 of the caregiver journey. DEMO content, fictional. Edit this file, not the code.",
+  "id": "arrival",
+  "phase": 1,
+  "pillar": "Clinical Command",
+  "title": "Arrival",
+  "tagline": "The first days at the facility. Make the handoff hold.",
+  "description": "Maria has just moved from the hospital to the skilled nursing facility. New faces every shift, and everything you know about her has to travel with her. This phase is about making sure nothing gets lost when the shift changes.",
+  "residentId": "maria-r",
+  "flows": [
+    {
+      "id": "shift-change",
+      "title": "Shift Change Checklist",
+      "summary": "A two-minute handoff you run with the outgoing and incoming aide: who's on, what to say out loud, what's flagged today.",
+      "when": "Every day at the 3:00 PM shift change",
+      "source": "checklists/shift-change.md"
+    }
+  ]
+}

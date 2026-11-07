@@ -1,0 +1,63 @@
+{
+  "_note": "DEMO copy. Every string the app shows lives here or in the other content files; nothing is hard-coded. Edit freely. {placeholders} are filled in by the app.",
+  "app": {
+    "name": "Setchan AI",
+    "shortName": "Setchan",
+    "description": "Offline-first caregiver command companion for nursing home transitions. Demo build: all people fictional, no PHI.",
+    "demoBadge": "DEMO",
+    "demoNotice": "Demo build · everyone here is fictional · no PHI, ever",
+    "builtLabel": "Build"
+  },
+  "nav": {
+    "home": "Home",
+    "settings": "Settings",
+    "back": "Back"
+  },
+  "home": {
+    "greeting": "Aloha, {caregiver}.",
+    "prompt": "Where are you in the journey today?",
+    "phaseLabel": "Phase {n}"
+  },
+  "phase": {
+    "residentLabel": "Caring for",
+    "flowsHeading": "Today's flow",
+    "open": "Open"
+  },
+  "checklist": {
+    "progress": "{done} of {total} done",
+    "flagged": "Flagged",
+    "shiftChangeAt": "Shift change at {time}",
+    "inMinutes": "in {n} min",
+    "minutesAgo": "{n} min ago",
+    "now": "right now",
+    "complete": "Handoff complete",
+    "completeHint": "Check every item, then confirm the handoff together.",
+    "completedAt": "Confirmed at {time}",
+    "allDone": "Covered. Nothing got lost this shift.",
+    "reset": "Start a fresh handoff",
+    "resetConfirm": "Clear every check on this handoff and start again?"
+  },
+  "settings": {
+    "title": "Settings",
+    "clockHeading": "Clock",
+    "demoMode": "Demo clock",
+    "demoModeHelp": "Pins today to {date} at {time} so the walkthrough always reads the same. Turn off to follow the real clock.",
+    "dataHeading": "Your data",
+    "storage": "Everything stays on this device. No account, no server, no sync. Export a backup if you change phones.",
+    "export": "Export backup (JSON)",
+    "exportOk": "Backup downloaded.",
+    "import": "Import backup (JSON)",
+    "importOk": "Imported {checks} saved checks.",
+    "importBad": "That file isn't a Setchan backup.",
+    "clearAll": "Clear all local data",
+    "clearConfirm": "Clear everything stored on this device?",
+    "clearDone": "Local data cleared.",
+    "aboutHeading": "About",
+    "about": "Setchan AI is administrative navigation for family caregivers. It is never clinical advice and never a medical record. Built under the Seven Rules."
+  },
+  "notFound": {
+    "title": "Nothing here yet.",
+    "body": "This part of the journey isn't built in this version.",
+    "home": "Back to start"
+  }
+}
