@@ -118,8 +118,13 @@ Builder updates this section as work lands; date each change.*
   3 full board. Charters are used verbatim as system prompts.
   Nov 7 (Builder): Phase 0 recon delivered in the room (report
   `PHASE0_RECON.md`, Builder's folder); switch-docs MCP registered for
-  Builder's sessions. Awaiting DK's clearance and seven decisions
-  (websockets dependency, seat names, addressing, env-file path, stale-
-  mention threshold, bridge repo, `!follow-ups off`) before Phase 1.
+  Builder's sessions. Nov 7 (Builder): DK ruled on all seven — websockets
+  allowed (pinned, venv); bare seat names hermes/kimi/nemo/mise/glam with
+  seat-title display names; DK alone addresses seats through Phase 2, UNI's
+  bot joins in Phase 3, seats never address seats; env file placed by DK
+  outside every repo; stale-mention threshold 30 min; bridge code in the
+  private repo ChainMailGlobal/boardroom-bridge (ledger and env never in
+  git; PHASE0_RECON.md its first document; DECISIONS.md holds the rulings);
+  `!follow-ups off` set in #boardroom. **No Phase 1 code until DK says go.**
 - Setchan AI's live target beyond the hackathon: Techstars Spring 2027
   (applications close mid-November 2026), developed to the YC bar.
