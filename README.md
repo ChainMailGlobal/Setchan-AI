@@ -24,7 +24,9 @@ in the room as "Builder"). The Builder is building the board's product:
 | CTO | Kimi | Kimi-K3 | Moonshot AI |
 | COO | Nemo | Nemotron 3.5 Super VL | NVIDIA |
 | CMO | Mise | Muse Spark Open | Meta |
-| CRO | Glam | GLM-5.2 | Z.ai |
+| CRO | Glam | GLM-5.3 † | Z.ai |
+
+† Upgraded in-family from GLM-5.2 on Nov 7, after the founding session.
 
 Chair: DK (founder-CEO), directing by voice via Wispr Flow.
 Chief of Staff: UNI — keeps the board's memory, minutes, and spend ledger,
