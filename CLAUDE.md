@@ -130,6 +130,10 @@ Builder updates this section as work lands; date each change.*
   repo), Glam registered as native Switch agent `glam` (DK-owned), invited
   to #boardroom, one ledgered trial call passed on GLM-5.3, bridge running
   detached on DK's PC. Prices from Token Factory's own catalog, not the
-  charters. Awaiting DK's first live mention of Glam in the room.
+  charters. **Phase 1 success 19:10 HST:** DK mentioned Glam, she answered
+  through her own session in 5 s, ledger line $0.0055 within estimate.
+  Seat replies now carry bare names (no at-mentions). Open for Phase 2:
+  reboot-proof start (Task Scheduler), DK sets "Only me" on glam's agent
+  page, DK deletes the unused registration key; then guard-parity tests.
 - Setchan AI's live target beyond the hackathon: Techstars Spring 2027
   (applications close mid-November 2026), developed to the YC bar.
