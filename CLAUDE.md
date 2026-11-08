@@ -125,6 +125,11 @@ Builder updates this section as work lands; date each change.*
   outside every repo; stale-mention threshold 30 min; bridge code in the
   private repo ChainMailGlobal/boardroom-bridge (ledger and env never in
   git; PHASE0_RECON.md its first document; DECISIONS.md holds the rulings);
-  `!follow-ups off` set in #boardroom. **No Phase 1 code until DK says go.**
+  `!follow-ups off` set in #boardroom.
+  Nov 7 (Builder): **Phase 1 go given and executed.** Bridge built (private
+  repo), Glam registered as native Switch agent `glam` (DK-owned), invited
+  to #boardroom, one ledgered trial call passed on GLM-5.3, bridge running
+  detached on DK's PC. Prices from Token Factory's own catalog, not the
+  charters. Awaiting DK's first live mention of Glam in the room.
 - Setchan AI's live target beyond the hackathon: Techstars Spring 2027
   (applications close mid-November 2026), developed to the YC bar.
