@@ -116,5 +116,10 @@ Builder updates this section as work lands; date each change.*
   `native-agents-bridge-spec.md` (UNI's boardroom files; DK relays it).
   Phases: 0 recon report → 1 Glam end-to-end → 2 budget-guard parity →
   3 full board. Charters are used verbatim as system prompts.
+  Nov 7 (Builder): Phase 0 recon delivered in the room (report
+  `PHASE0_RECON.md`, Builder's folder); switch-docs MCP registered for
+  Builder's sessions. Awaiting DK's clearance and seven decisions
+  (websockets dependency, seat names, addressing, env-file path, stale-
+  mention threshold, bridge repo, `!follow-ups off`) before Phase 1.
 - Setchan AI's live target beyond the hackathon: Techstars Spring 2027
   (applications close mid-November 2026), developed to the YC bar.
