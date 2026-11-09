@@ -132,8 +132,17 @@ Builder updates this section as work lands; date each change.*
   detached on DK's PC. Prices from Token Factory's own catalog, not the
   charters. **Phase 1 success 19:10 HST:** DK mentioned Glam, she answered
   through her own session in 5 s, ledger line $0.0055 within estimate.
-  Seat replies now carry bare names (no at-mentions). Open for Phase 2:
-  reboot-proof start (Task Scheduler), DK sets "Only me" on glam's agent
-  page, DK deletes the unused registration key; then guard-parity tests.
+  Seat replies now carry bare names (no at-mentions).
+  Nov 7 (Builder): **Phase 2 done** — ledger reconciliation (0 mismatches),
+  forced over-cap test refused with no model call (sentinel-proven), bridge
+  runs under a Windows Scheduled Task at logon.
+  Nov 7–8 (Builder): **Phase 3 done** — hermes, kimi, nemo, mise registered
+  (DK-owned), invited, one guarded ping each; all five pins asserted
+  against the live model list; 7 agents live in #boardroom. Switch outage
+  19:46 Nov 7 delayed the report; bridge back up under the task 17:14 Nov 8
+  with all five seats, charter hashes matching disk. Builder stopped before
+  introductions; the chair calls the intro round (Hermes, Kimi, Nemo, Mise,
+  Glam). Still DK's: delete the unused registration key; set "Only me" on
+  each seat's agent page (the bridge enforces chair-only regardless).
 - Setchan AI's live target beyond the hackathon: Techstars Spring 2027
   (applications close mid-November 2026), developed to the YC bar.
